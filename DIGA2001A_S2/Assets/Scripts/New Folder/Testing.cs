@@ -4,7 +4,7 @@ using UnityEngine;
 public class Testing : MonoBehaviour
 {
     public Hero myHero;
-    public Enemy myEnemy;
+    public MyGame.Characters.Enemy myEnemy;
 
     void Start()
     {
